@@ -1,2 +1,3 @@
 # howto-pt-UI-jimmy
-How-to UI Jimmy McBride
+
+This is the repository for **How-to UI** project for Jimmy McBride.
